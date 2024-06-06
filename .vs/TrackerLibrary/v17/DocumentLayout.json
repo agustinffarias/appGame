@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Freecode\\TrackerLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8586AD59-9F90-450E-90AF-30035F57CABA}|TrackerLibrary\\TrackerLibrary.csproj|c:\\users\\asus\\onedrive\\escritorio\\freecode\\trackerlibrary\\trackerlibrary\\matchupentrymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8586AD59-9F90-450E-90AF-30035F57CABA}|TrackerLibrary\\TrackerLibrary.csproj|solutionrelative:trackerlibrary\\matchupentrymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8586AD59-9F90-450E-90AF-30035F57CABA}|TrackerLibrary\\TrackerLibrary.csproj|C:\\Users\\ASUS\\OneDrive\\Escritorio\\Freecode\\TrackerLibrary\\trackerlibrary\\matchupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8586AD59-9F90-450E-90AF-30035F57CABA}|TrackerLibrary\\TrackerLibrary.csproj|solutionrelative:trackerlibrary\\matchupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8586AD59-9F90-450E-90AF-30035F57CABA}|TrackerLibrary\\TrackerLibrary.csproj|C:\\Users\\ASUS\\OneDrive\\Escritorio\\Freecode\\TrackerLibrary\\trackerlibrary\\tournamentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8586AD59-9F90-450E-90AF-30035F57CABA}|TrackerLibrary\\TrackerLibrary.csproj|solutionrelative:trackerlibrary\\tournamentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8586AD59-9F90-450E-90AF-30035F57CABA}|TrackerLibrary\\TrackerLibrary.csproj|C:\\Users\\ASUS\\OneDrive\\Escritorio\\Freecode\\TrackerLibrary\\trackerlibrary\\prizemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8586AD59-9F90-450E-90AF-30035F57CABA}|TrackerLibrary\\TrackerLibrary.csproj|solutionrelative:trackerlibrary\\prizemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8586AD59-9F90-450E-90AF-30035F57CABA}|TrackerLibrary\\TrackerLibrary.csproj|C:\\Users\\ASUS\\OneDrive\\Escritorio\\Freecode\\TrackerLibrary\\trackerlibrary\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8586AD59-9F90-450E-90AF-30035F57CABA}|TrackerLibrary\\TrackerLibrary.csproj|solutionrelative:trackerlibrary\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8586AD59-9F90-450E-90AF-30035F57CABA}|TrackerLibrary\\TrackerLibrary.csproj|C:\\Users\\ASUS\\OneDrive\\Escritorio\\Freecode\\TrackerLibrary\\trackerlibrary\\teammodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8586AD59-9F90-450E-90AF-30035F57CABA}|TrackerLibrary\\TrackerLibrary.csproj|solutionrelative:trackerlibrary\\teammodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8586AD59-9F90-450E-90AF-30035F57CABA}|TrackerLibrary\\TrackerLibrary.csproj|C:\\Users\\ASUS\\OneDrive\\Escritorio\\Freecode\\TrackerLibrary\\trackerlibrary\\trackerlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8586AD59-9F90-450E-90AF-30035F57CABA}|TrackerLibrary\\TrackerLibrary.csproj|solutionrelative:trackerlibrary\\trackerlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MatchupEntryModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Freecode\\TrackerLibrary\\TrackerLibrary\\MatchupEntryModel.cs",
+              "RelativeDocumentMoniker": "TrackerLibrary\\MatchupEntryModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Freecode\\TrackerLibrary\\TrackerLibrary\\MatchupEntryModel.cs",
+              "RelativeToolTip": "TrackerLibrary\\MatchupEntryModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T19:46:01.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MatchupModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Freecode\\TrackerLibrary\\TrackerLibrary\\MatchupModel.cs",
+              "RelativeDocumentMoniker": "TrackerLibrary\\MatchupModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Freecode\\TrackerLibrary\\TrackerLibrary\\MatchupModel.cs",
+              "RelativeToolTip": "TrackerLibrary\\MatchupModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T19:39:25.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrizeModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Freecode\\TrackerLibrary\\TrackerLibrary\\PrizeModel.cs",
+              "RelativeDocumentMoniker": "TrackerLibrary\\PrizeModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Freecode\\TrackerLibrary\\TrackerLibrary\\PrizeModel.cs",
+              "RelativeToolTip": "TrackerLibrary\\PrizeModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T19:38:10.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TournamentModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Freecode\\TrackerLibrary\\TrackerLibrary\\TournamentModel.cs",
+              "RelativeDocumentMoniker": "TrackerLibrary\\TournamentModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Freecode\\TrackerLibrary\\TrackerLibrary\\TournamentModel.cs",
+              "RelativeToolTip": "TrackerLibrary\\TournamentModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T19:34:44.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Freecode\\TrackerLibrary\\TrackerLibrary\\PersonModel.cs",
+              "RelativeDocumentMoniker": "TrackerLibrary\\PersonModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Freecode\\TrackerLibrary\\TrackerLibrary\\PersonModel.cs",
+              "RelativeToolTip": "TrackerLibrary\\PersonModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T19:26:53.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TeamModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Freecode\\TrackerLibrary\\TrackerLibrary\\TeamModel.cs",
+              "RelativeDocumentMoniker": "TrackerLibrary\\TeamModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Freecode\\TrackerLibrary\\TrackerLibrary\\TeamModel.cs",
+              "RelativeToolTip": "TrackerLibrary\\TeamModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T19:24:15.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TrackerLibrary",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Freecode\\TrackerLibrary\\TrackerLibrary\\TrackerLibrary.csproj",
+              "RelativeDocumentMoniker": "TrackerLibrary\\TrackerLibrary.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\Freecode\\TrackerLibrary\\TrackerLibrary\\TrackerLibrary.csproj",
+              "RelativeToolTip": "TrackerLibrary\\TrackerLibrary.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-02T19:23:45.226Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

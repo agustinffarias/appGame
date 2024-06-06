@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>TrackerLibrary</id>
+    <version>1.0.0</version>
+    <authors>TrackerLibrary</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="868d9e7d806a92e33096d148f1787c14d82512de" />
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\ASUS\OneDrive\Escritorio\Freecode\TrackerLibrary\TrackerLibrary\bin\Debug\net6.0\TrackerLibrary.dll" target="lib\net6.0\TrackerLibrary.dll" />
+  </files>
+</package>
