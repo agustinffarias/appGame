@@ -1,4 +1,6 @@
 Tournament Tracker Application
+
+
 Welcome to the Tournament Tracker Application project! This repository is dedicated to building a robust and user-friendly application for managing team tournaments, inspired by a comprehensive 24-hour tutorial from FreeCodeCamp. The primary objective of this project is to deepen my understanding of C# while creating a practical and fully functional application.
 
 Overview
